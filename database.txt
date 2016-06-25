@@ -1,0 +1,4 @@
+//Write This Command For Create Database in MongoDB
+use contactlist 
+//Insert data Ex:
+db.contactlist.insert({name: 'Tom', email: 'tom@live.com', number: '123-456789'})

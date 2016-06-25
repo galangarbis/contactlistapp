@@ -1,0 +1,26 @@
+{
+  "name": "contactlistapp",
+  "version": "1.0.0",
+  "description": "App Contact With Mongo DB, Angular, Express JS and Node",
+  "main": "server.js",
+  "dependencies": {
+    "mongojs": "^2.4.0",
+    "express": "^4.14.0",
+    "body-parser": "^1.15.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node server",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/galangarbis/contactlistapp.git"
+  },
+  "author": "M Galang Arbi S",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/galangarbis/contactlistapp/issues"
+  },
+  "homepage": "https://github.com/galangarbis/contactlistapp#readme"
+}
