@@ -32,3 +32,10 @@ $ npm install body-parser
 ###Server
 
 Server Runnning on Port 3000
+
+###Running
+
+```sh
+$ node server
+```
+Then Open localhost:3000
